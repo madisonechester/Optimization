@@ -11,7 +11,7 @@ This repository contains coursework and practical exercises completed for the **
 - Gain practical experience with optimization tools and problem-solving strategies  
 
 ## Repository Contents
-- **Practical 1–6/**: Exercises and problem sets covering various optimization topics, including:
+- **Practical 1–6**: Exercises and problem sets covering various optimization topics, including:
   - Formulation of optimization problems  
   - Linear and nonlinear programming  
   - Constrained vs. unconstrained optimization  
